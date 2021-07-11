@@ -10,8 +10,7 @@
 <p>Acesse em: https://filmaria-three.vercel.app/</p>
 
 
-  <img src="https://user-images.githubusercontent.com/60237326/125179241-422c3d80-e1c3-11eb-92ed-f5841f7bb902.png
-"/>
+  <img src="https://user-images.githubusercontent.com/60237326/125179241-422c3d80-e1c3-11eb-92ed-f5841f7bb902.png"/>
 
   
   ## 🧠 Responsividade
