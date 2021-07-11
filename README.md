@@ -31,6 +31,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/docs)
 
 
 ## 💻 Projeto
