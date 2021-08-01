@@ -1,13 +1,10 @@
 <h1 align="center" >
- Autenticação - Filmaria
+ MyTasks / to.do List
 </h1>
 
 
 <br>
-<p>
-  Este é um teste de tela de login para  o meu projeto filmaria , com autenticação do Google, Facebook e GitHub.
-</p>
-<p>Acesse em: https://filmaria-login.vercel.app/</p>
+
 
 
   <img src="https://user-images.githubusercontent.com/60237326/127777220-f498adf7-68dc-49d2-b377-c0dc523ed20e.png"/>
